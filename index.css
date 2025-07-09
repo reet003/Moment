@@ -374,8 +374,8 @@ p{
     padding: 8px 16px;
     max-width: 100%;
   }
-
-
+.tree-container{
+  right: -77%;}
 
 
   .nav-container {
@@ -439,12 +439,17 @@ p{
   .menu-icon {
     display: block;
   }
+  .img2{
+  position: absolute;
+  right: -90%;
+  top: 6px;
+  }
 
-  .footer {
-    text-align: center;
-    margin-top: 74%;
-    margin-right: 100px;
-    position: relative;
+    .footer {
+      text-align: center;
+      margin-top: 11%;
+      margin-right: -74%;
+      position: relative;
   }
   .footer p{
     text-align: left;
